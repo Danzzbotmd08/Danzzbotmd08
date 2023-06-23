@@ -41,13 +41,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // if you don't have it, type "-" or leave it alone so there are credits :v
 
-global.sig = 'https://instagram.com/zykomd'
-global.sgh = 'https://github.com/ZykoBotz-MD'
+global.sig = 'https://instagram.com/danzz.xd08'
+global.sgh = 'https://github.com/Danzzbotmd08'
 global.sgc = 'https://chat.whatsapp.com/EuRW5GTkIm7Got8ncaiI6X'
 global.sdc = 'https://www.discord.com'
 global.snh = 'https://youtu.be/0I8MBnCuuzs'
-global.sfb = 'https://www.facebook.com/ZykoBotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.sfb = 'https://www.facebook.com/'
+global.syt = 'https://youtube.com/'
 
 /*============== PAYMENT ==============*/
 global.pdana = ''
