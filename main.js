@@ -91,8 +91,8 @@ loadDatabase()
 /*const fs = require('fs');
 const path = require('path');
 */
-// ° BY ZYKO MD JANGAN HAPUS TOT 
-// ° wa.me/6283133329293
+// ° BY DANZZ MD
+// ° wa.me/6283816944190
 
 const sessionFolder = opts._[0] || 'sessions';
 const authFileName = 'creds.json';
