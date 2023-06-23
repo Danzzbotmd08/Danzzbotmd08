@@ -50,22 +50,22 @@ global.sfb = 'https://www.facebook.com/ZykoBotz'
 global.syt = 'https://youtube.com/@zykobotz'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852-1264-9276'
-global.povo = '0852-1264-9276'
-global.pgopay = '0852-1264-9276'
-global.plinkaja = '0852-1264-9276'
-global.ppulsa = '0852-1264-9276' 
-global.ppulsa2 = '0831-3332-9293'
-global.psaweria = 'https://saweria.co/Zykomd'
+global.pdana = ''
+global.povo = ''
+global.pgopay = ''
+global.plinkaja = ''
+global.ppulsa = '' 
+global.ppulsa2 = ''
+global.psaweria = ''
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXX'
-global.nomorown = '6283133329293'
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
+global.nomorbot = '6283816944190'
+global.nomorown = '6283816944190'
+global.namebot = 'DANZZ MD'
+global.nameown = 'DANZZBOT MD'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'ZykoBotz-MD'
+global.namagithub = 'Danzzbotmd08'
 global.linkgithub = sgh
 
 /*============== CREATE PANEL ==============*/
@@ -80,7 +80,7 @@ global.lolkey = pickRandom(["e54205a4ca2caa368cc067bb", "8e66d0934cf741bfd2182c1
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283133329293', 'ZYKO MD', true],
+  ['6283816944190', 'DANZZ MD', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -130,15 +130,15 @@ global.APIKeys = {
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ ZYKOBOTZ MD"
+global.wm = '                「 DANZZOTZ MD 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DANZZBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ DANZZBOTZ MD"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By DANZZ MD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "ZYKOBOTZ MD 乂 ZYKO MD"
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢʏᴋᴏ ᴍᴅ ッ'
+global.author = "DANZZBOTZ MD 乂 DANZ MD"
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴢʏᴋᴏ ᴍᴅ ッ'
 /*Fake*/
 global.fsizedoc = SizeDoc()
 global.fpagedoc = PageDoc()
